@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&family=Ubuntu&display=swap');
+
+.ghost {
+    visibility: hidden;
+}
+
+.navbar {
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    background-color: rgb(227, 164, 227);
+    margin: -0.6em;
+    padding: 1em;
+}
+
+.logo {
+    width: 30px;
+    padding: 0 0.2em;
+}
+.text-block{
+    text-align: left;
+    color:purple;
+}
+
+.about-me{
+    display: flex;
+    padding: 0 15%;
+}
+
+.about-me>div {
+
+        background-color: #f0d5e7;
+        margin: 0 0 10em 5em;
+        padding: 5em;
+        width: fit-content;
+        border-radius: 300px;
+        text-align: center;
+}
+
+body{
+    background-color:rgb(233, 185, 233);
+    padding: 1px;
+}
+
+h1{
+    font-family: 'Arial';
+    display:block;
+    color: purple;
+    padding: 0 0 0 12.6em;
+    margin: 0 1 1 0;
+}
+
+p{
+    font-family: 'Palatino';
+            }

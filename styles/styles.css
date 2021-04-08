@@ -37,6 +37,14 @@
         text-align: center;
 }
 
+.portfolio-preview {
+    display: flex;
+    justify-content:space-around;
+    font-family: 'Arial';
+    font-weight: 900;
+    color: purple;
+}
+
 body{
     background-color:rgb(233, 185, 233);
     padding: 1px;
